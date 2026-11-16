@@ -52,3 +52,9 @@ git commit -m "Mark tasks as done"
 ## Next
 
 Publish it: write your README, push to your own GitHub repository, and go through [ACCEPTANCE.md](../ACCEPTANCE.md). Want a code review? Book a one-to-one session at https://ewoibuilds.com/training.
+
+<!-- ewoi:step -->
+---
+
+**Next:** you finished the path: pick a project from [all free repos](https://github.com/ewoibuilds) &nbsp;&middot;&nbsp; **Stuck?** [Ask with the "I am stuck" form](https://github.com/ewoibuilds/task-tracker-laravel/issues/new/choose) &nbsp;&middot;&nbsp; **Helped?** Star [the repo](https://github.com/ewoibuilds/task-tracker-laravel) and follow [Ewoi Builds](https://github.com/ewoibuilds).
+<!-- /ewoi:step -->

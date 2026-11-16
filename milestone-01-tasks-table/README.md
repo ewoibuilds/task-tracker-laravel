@@ -57,3 +57,9 @@ git commit -m "Add the tasks table and model"
 ## Next
 
 [Milestone 02: list, add, edit and delete](../milestone-02-tasks-crud)
+
+<!-- ewoi:step -->
+---
+
+**Next:** [milestone-02-tasks-crud](../milestone-02-tasks-crud/) &nbsp;&middot;&nbsp; **Stuck?** [Ask with the "I am stuck" form](https://github.com/ewoibuilds/task-tracker-laravel/issues/new/choose) &nbsp;&middot;&nbsp; **Helped?** Star [the repo](https://github.com/ewoibuilds/task-tracker-laravel) and follow [Ewoi Builds](https://github.com/ewoibuilds).
+<!-- /ewoi:step -->

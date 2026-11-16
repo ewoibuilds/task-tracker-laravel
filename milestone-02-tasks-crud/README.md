@@ -69,3 +69,9 @@ git commit -m "List, add, edit and delete tasks"
 ## Next
 
 [Milestone 03: only your tasks](../milestone-03-only-your-tasks)
+
+<!-- ewoi:step -->
+---
+
+**Next:** [milestone-03-only-your-tasks](../milestone-03-only-your-tasks/) &nbsp;&middot;&nbsp; **Stuck?** [Ask with the "I am stuck" form](https://github.com/ewoibuilds/task-tracker-laravel/issues/new/choose) &nbsp;&middot;&nbsp; **Helped?** Star [the repo](https://github.com/ewoibuilds/task-tracker-laravel) and follow [Ewoi Builds](https://github.com/ewoibuilds).
+<!-- /ewoi:step -->

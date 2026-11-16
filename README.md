@@ -1,3 +1,19 @@
+<!-- ewoi:top -->
+<p align="center"><img src="docs/banner.webp" alt="Task tracker (Laravel): Laravel, policies and tests, milestone by milestone" width="100%"></p>
+
+<p align="center">
+  <a href="https://github.com/ewoibuilds/task-tracker-laravel/generate"><b>Use this template &rarr;</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://github.com/ewoibuilds"><b>All free repos</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://www.youtube.com/@ewoibuilds"><b>Watch the lessons</b></a>
+</p>
+
+<p align="center">
+  <img alt="Free" src="https://img.shields.io/badge/price-free-C6FF00?style=flat-square&labelColor=0B0F19">
+  <img alt="Beginner friendly" src="https://img.shields.io/badge/beginner-friendly-C6FF00?style=flat-square&labelColor=0B0F19">
+  <img alt="MIT licence" src="https://img.shields.io/badge/licence-MIT-C6FF00?style=flat-square&labelColor=0B0F19">
+</p>
+<!-- /ewoi:top -->
+
 # Task tracker (Laravel)
 
 **Learn. Build. Ship.** An Ewoi Builds project: a Laravel 13 app where each person signs in and manages only their own tasks, with tests that prove it.
@@ -92,12 +108,21 @@ Know the concept first, then ask for small steps. A good prompt:
 
 Check every answer against the guide and the official docs (laravel.com/docs), and keep secrets out of your prompts.
 
-## Support Ewoi Builds
-
-Lessons stay free. If this helped, star the repo, follow the organisation and share it.
-
-Follow along: GitHub (github.com/ewoibuilds), TikTok (@ewoibuilds), Instagram (@ewoibuilds).
 
 ## Licence
 
 MIT. See [LICENSE](LICENSE).
+
+<!-- ewoi:end -->
+## Keep going
+
+- **Star this repo** so you can find it again, and so more learners discover it.
+- **Follow [Ewoi Builds on GitHub](https://github.com/ewoibuilds)** to get the next steps and projects as they land.
+- **Build it, then show it:** push your version to your own GitHub and share the link with us.
+- **Stuck?** Open an issue with the "I am stuck" form. Say which step, what you ran and what you saw.
+- **Lessons stay free.** If this helped, you can say thanks with [Buy me a soda](https://buymesoda.com/Rd3JwfQpNGaUXdyc4ImyIrXrENu2) or [Buy me a coffee](https://buymeacoffee.com/ewoibuilds).
+
+Follow along: [GitHub](https://github.com/ewoibuilds), [TikTok](https://www.tiktok.com/@ewoibuilds), [Instagram](https://www.instagram.com/ewoibuilds/), [Facebook](https://www.facebook.com/profile.php?id=61596671420317), [YouTube](https://www.youtube.com/@ewoibuilds).
+
+**Learn. Build. Ship.**
+<!-- /ewoi:end -->

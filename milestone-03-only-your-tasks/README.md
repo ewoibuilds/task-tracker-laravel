@@ -51,3 +51,9 @@ git commit -m "Only the owner can edit or delete a task"
 ## Next
 
 [Milestone 04: tests and done](../milestone-04-tests-and-done)
+
+<!-- ewoi:step -->
+---
+
+**Next:** [milestone-04-tests-and-done](../milestone-04-tests-and-done/) &nbsp;&middot;&nbsp; **Stuck?** [Ask with the "I am stuck" form](https://github.com/ewoibuilds/task-tracker-laravel/issues/new/choose) &nbsp;&middot;&nbsp; **Helped?** Star [the repo](https://github.com/ewoibuilds/task-tracker-laravel) and follow [Ewoi Builds](https://github.com/ewoibuilds).
+<!-- /ewoi:step -->
