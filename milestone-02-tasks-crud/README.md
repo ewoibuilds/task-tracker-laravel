@@ -1,6 +1,6 @@
 # Milestone 02: list, add, edit and delete
 
-Guide: **Task tracker with sign in** (on ewoibuilds.com: `/projects/task-tracker-laravel`), step 3
+Guide: [Task tracker with sign in](https://ewoibuilds.com/projects/task-tracker-laravel), step 3
 
 **Your workspace folder:** `~/ewoi-learning/task-tracker` (Laravel 13, Livewire starter kit).
 

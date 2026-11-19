@@ -1,6 +1,6 @@
 # Milestone 03: only your tasks
 
-Guide: **Task tracker with sign in** (on ewoibuilds.com: `/projects/task-tracker-laravel`), step 4
+Guide: [Task tracker with sign in](https://ewoibuilds.com/projects/task-tracker-laravel), step 4
 
 **Your workspace folder:** `~/ewoi-learning/task-tracker` (Laravel 13, Livewire starter kit).
 

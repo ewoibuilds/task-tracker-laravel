@@ -1,6 +1,6 @@
 # Milestone 04: tests and mark as done
 
-Guide: **Task tracker with sign in** (on ewoibuilds.com: `/projects/task-tracker-laravel`), steps 5 and 6
+Guide: [Task tracker with sign in](https://ewoibuilds.com/projects/task-tracker-laravel), steps 5 and 6
 
 **Your workspace folder:** `~/ewoi-learning/task-tracker` (Laravel 13, Livewire starter kit).
 

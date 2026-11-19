@@ -22,7 +22,7 @@
 
 Sign up, sign in, then add, edit, complete and delete your own tasks. Nobody can see or change anyone else's tasks, and feature tests prove both promises.
 
-Project guide: **Task tracker with sign in** (on ewoibuilds.com: `/projects/task-tracker-laravel`)
+Project guide: [Task tracker with sign in](https://ewoibuilds.com/projects/task-tracker-laravel)
 
 ## Start here
 
@@ -39,7 +39,7 @@ The full checklist is in [ACCEPTANCE.md](ACCEPTANCE.md).
 
 - A laptop or desktop and a stable internet connection
 - Operating system: Windows 10 or 11, macOS or Linux
-- Prerequisites: **Your first Laravel route** (on ewoibuilds.com: `/lessons/your-first-laravel-route`), **Build a REST API** (on ewoibuilds.com: `/lessons/build-a-rest-api`) and **Hash passwords properly** (on ewoibuilds.com: `/lessons/hash-passwords-properly`)
+- Prerequisites: [Your first Laravel route](https://ewoibuilds.com/lessons/your-first-laravel-route), [Build a REST API](https://ewoibuilds.com/lessons/build-a-rest-api) and [Hash passwords properly](https://ewoibuilds.com/lessons/hash-passwords-properly)
 - Tools (search for each on its official site; download only from the official site and check the address):
   - PHP 8.3 or newer and Composer 2: search for "Laravel installation php.new"
   - The Laravel installer: `composer global require laravel/installer`
